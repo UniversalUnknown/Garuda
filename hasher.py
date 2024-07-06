@@ -1,4 +1,6 @@
-def hasher(i,n):
+#This seems worst but I was trying on matrix level descripter, sorry to disappoint you.
+
+def hasher( i,n):
     kb='ACBEUVDGHJFIK'
     ka='LNRQPTYOSMRWZX'
     kg,ki='24680','13579'
