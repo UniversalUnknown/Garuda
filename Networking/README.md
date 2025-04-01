@@ -17,8 +17,8 @@ Web-related Python scripts:
 
 ### Root Directory
 General Python utilities:
-- ds.py - Data structure implementations
-- ds3.py - Additional data structures
+- ds.py - Double-slit Experinment(don't mind it)
+- ds3.py - Additional double-slit
 - pipe.py - Pipeline utilities
 
 ## Usage
