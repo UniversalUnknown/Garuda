@@ -1,9 +1,9 @@
 import requests
-THINGSPEAK_CHANNEL_ID = "2874616"
-WRITE_API_KEY = "WI18D2PC7EW6CC8B"
-READ_API_KEY = "YYHRGB8OL7VTH9H8"
+THINGSPEAK_CHANNEL_ID = ""
+WRITE_API_KEY = ""
+READ_API_KEY = ""
 def read_latest_data():
-    url = f"https://api.thingspeak.com/channels/2874616/feeds.json?api_key=YYHRGB8OL7VTH9H8&results=2"
+    url = f"..."
     response = requests.get(url)
     if response.status_code == 200:
         data = response.json()
