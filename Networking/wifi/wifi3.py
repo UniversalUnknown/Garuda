@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
-"""
-Network Interface Monitor
-A tool for monitoring network interfaces lo and wlo1.
-"""
-
 import subprocess
 import time
 from dataclasses import dataclass
